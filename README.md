@@ -1,5 +1,5 @@
-# Consent-experience
-This is the repository for the canvases using in the workshop 'mapping the consent experience'
+# Consent Experience Design Workshop (CEDW)
+This is the repository for the workshop's materials updated to the 8th of March 2017
 
-Workshop instructions are available at this link:
-http://www.slideshare.net/alessandrocarelli/mapping-the-real-consent-experience-workshop-workshop
+CEDW about page: http://privacyfeedback.org/consentexp/
+Workshop presentation and instructions: https://www.slideshare.net/alessandrocarelli/consent-experience-design-workshop-intro
